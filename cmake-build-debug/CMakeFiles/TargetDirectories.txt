@@ -1,0 +1,3 @@
+C:/Users/choir/CLionProjects/CS235 Lab 10/cmake-build-debug/CMakeFiles/CS235_Lab_10.dir
+C:/Users/choir/CLionProjects/CS235 Lab 10/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/choir/CLionProjects/CS235 Lab 10/cmake-build-debug/CMakeFiles/rebuild_cache.dir

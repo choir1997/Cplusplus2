@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/choir/CLionProjects/CS235 Lab 10/QS.cpp
+QS.h
+C:/Users/choir/CLionProjects/CS235 Lab 10/QS.h
+
+C:/Users/choir/CLionProjects/CS235 Lab 10/QS.h
+iostream
+-
+sstream
+-
+QSInterface.h
+C:/Users/choir/CLionProjects/CS235 Lab 10/QSInterface.h
+
+C:/Users/choir/CLionProjects/CS235 Lab 10/QSInterface.h
+string
+-
+
+C:/Users/choir/CLionProjects/CS235 Lab 10/main.cpp
+iostream
+-
+QS.h
+C:/Users/choir/CLionProjects/CS235 Lab 10/QS.h
+QSInterface.h
+C:/Users/choir/CLionProjects/CS235 Lab 10/QSInterface.h
+fstream
+-
+sstream
+-
+
